@@ -1,6 +1,7 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 
-int main (int argc, char *argv[]);
+int _putchar(char c);
+int _atoi(char *s);
 
 #endif
